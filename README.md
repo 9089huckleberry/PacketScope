@@ -46,9 +46,3 @@ Statistics & Reporting
 * Socket Programming
 * Protocol Decoding
 
-## Author
-
-Dev Pratap Singh
-
-B.Tech Computer Science and Engineering
-National Institute of Technology Tiruchirappalli
